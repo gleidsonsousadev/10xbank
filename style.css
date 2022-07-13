@@ -68,18 +68,18 @@ main {
     margin: 30px 0 0 100px;
 }
 
-/* banner 01 ----------------------------------- */
+/* bloco 01 ----------------------------------- */
 
-.banner01 {
+.bloco01 {
     background-image: url(imagens/banner01.png);
     height: 678px;
 }
 
-.banner01-texto {
+.bloco01-texto {
     color: #fff;
 }
 
-.banner01-texto h2 {
+.bloco01-texto h2 {
     margin: 0;
     font-size: 48px;
     width: 400px;
@@ -87,7 +87,7 @@ main {
     line-height: 100%;
 }
 
-.banner01-texto p {
+.bloco01-texto p {
     margin: 0;
     font-size: 24px;
     width: 505px;
@@ -120,28 +120,28 @@ main {
     padding: 10px 25px;
 }
 
-.banner01-texto .botao {
+.bloco01-texto .botao {
     margin-left: 100px;
 }
 
-/* banner 02 ----------------------------------- */
+/* bloco 02 ----------------------------------- */
 
-.banner02 {
+.bloco02 {
     background-image: url(imagens/banner02.png);
     height: 504px;
 }
 
-.banner02 .botao {
+.bloco02 .botao {
     margin-right: 20px;
 }
 
-.banner02-texto {
+.bloco02-texto {
     color: #000;
     float: right;
     width: 602px;
 }
 
-.banner02-texto h2 {
+.bloco02-texto h2 {
     width: 450px;
     font-weight: 600;
     font-style: normal;
@@ -150,7 +150,7 @@ main {
     line-height: 36px;
 }
 
-.banner02-texto p {
+.bloco02-texto p {
     font-size: 16px;
     width: 505px;
     padding: 0px 0px 40px 0px;
@@ -167,24 +167,24 @@ p.p2 {
     font-weight: 500;
 }
 
-/* banner 03 ----------------------------------- */
+/* bloco 03 ----------------------------------- */
 
-.banner03 {
+.bloco03 {
     background-image: url(imagens/banner03.png);
     height: 580px;
 }
 
-.banner03 .botao {
+.bloco03 .botao {
     margin-left:100px;
 }
 
-.banner03-texto {
+.bloco03-texto {
     float: left;
     color: #000;
     width: 500px;
 }
 
-.banner03-texto h2 {
+.bloco03-texto h2 {
     width: 450px;
     font-weight: 600;
     font-style: normal;
@@ -193,12 +193,12 @@ p.p2 {
     line-height: 36px;
 }
 
-.banner03-texto .botao-vazado {
+.bloco03-texto .botao-vazado {
     border-color: #000;
     color: #000;
 }
 
-.banner03 .botao {
+.bloco03 .botao {
     display: inline-block;
     margin-bottom: 30px;
 }
@@ -211,24 +211,24 @@ p.p2 {
     height: 418px;
 }
 
-/* banner 04 ----------------------------------- */
+/* bloco 04 ----------------------------------- */
 
-.banner04 {
+.bloco04 {
     background-image: url(imagens/banner04.png);
     height: 563px;
 }
 
-.banner04 .botao {
+.bloco04 .botao {
     margin-left:100px;
 }
 
-.banner04-texto {
+.bloco04-texto {
     float: left;
     color: #fff;
     width: 500px;
 }
 
-.banner04-texto h2 {
+.bloco04-texto h2 {
     width: 450px;
     font-weight: 600;
     font-style: normal;
@@ -237,12 +237,12 @@ p.p2 {
     line-height: 36px;
 }
 
-.banner04 .botao {
+.bloco04 .botao {
     display: inline-block;
     margin-bottom: 30px;
 }
 
-.banner04-texto p {
+.bloco04-texto p {
     margin-left: 100px;
     font-size: 16px;
     width: 385px;
@@ -261,24 +261,24 @@ p.p2 {
     line-height: 28px;
 }
 
-/* banner 05 ----------------------------------- */
+/* bloco 05 ----------------------------------- */
 
-.banner05 {
+.bloco05 {
     background-image: url(imagens/banner05.png);
     height: 482px;
 }
 
-.banner05 .botao {
+.bloco05 .botao {
     margin-right: 20px;
 }
 
-.banner05-texto {
+.bloco05-texto {
     color: #000;
     float: right;
     width: 602px;
 }
 
-.banner05-texto h2 {
+.bloco05-texto h2 {
     width: 550px;
     font-weight: 600;
     font-style: normal;
@@ -287,7 +287,7 @@ p.p2 {
     line-height: 36px;
 }
 
-.banner05-texto p {
+.bloco05-texto p {
     width: 505px;
     padding: 0px 0px 40px 0px;
     line-height: 110%;
@@ -303,4 +303,73 @@ p.p2 {
     font-weight: 500;
     width: 430px;
     line-height: 28px;
+}
+
+/* bloco 06 ----------------------------------- */
+
+.bloco06 {
+    background-color: #F3F3F3;
+    height: 1217px;
+    text-align: center;
+}
+
+.bloco06 h2 {
+    width: 720px;
+    font-size: 36px;
+    margin: 0 auto;
+    padding: 104px 0 30px 0;
+}
+
+.bloco06 .p1 {
+    width: 743px;
+    font-size: 16px;
+    line-height: 22px;
+    margin: 0 auto 40px;
+}
+
+.bloco06 .p2 {
+    width: 504px;
+    font-size: 24px;
+    line-height: 28px;
+    margin: 0 auto 47px;
+}
+
+.container-texto {
+    margin-bottom: 0;
+    height: 500px;
+}
+
+/* grid blocos ---------- */
+
+.container-grid {
+    width: 1250px;
+    margin: 0 auto;
+}
+
+.item-grid {
+    float: left;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.03);
+    border-radius: 12px;
+    text-align: left;
+    margin: 7px;
+    width: 295px;
+    height: 295px;
+    padding: 30px;
+    background-color: #fff;
+}
+
+.item-grid h3 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    color: #141414;
+    padding: 20px 0;
+}
+
+.item-grid p {
+    width: 235px;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
 }
