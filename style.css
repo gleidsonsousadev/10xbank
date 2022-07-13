@@ -260,3 +260,47 @@ p.p2 {
     width: 274px;
     line-height: 28px;
 }
+
+/* banner 05 ----------------------------------- */
+
+.banner05 {
+    background-image: url(imagens/banner05.png);
+    height: 482px;
+}
+
+.banner05 .botao {
+    margin-right: 20px;
+}
+
+.banner05-texto {
+    color: #000;
+    float: right;
+    width: 602px;
+}
+
+.banner05-texto h2 {
+    width: 550px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+    padding: 104px 100px 10px 0px ;
+    line-height: 36px;
+}
+
+.banner05-texto p {
+    width: 505px;
+    padding: 0px 0px 40px 0px;
+    line-height: 110%;
+}
+
+.p1 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+p.p2 {
+    font-size: 24px;
+    font-weight: 500;
+    width: 430px;
+    line-height: 28px;
+}
