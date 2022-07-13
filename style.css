@@ -2,6 +2,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: rgb(217, 217, 217);
@@ -21,7 +28,7 @@ main {
 }
 
 .menu {
-    margin-top: 20px;
+    margin-top: 37px;
     font-weight: 700;
     font-style: normal;
 }
@@ -33,9 +40,6 @@ main {
     align-items: flex-start;
     padding: 0px;
     gap: 26px;
-
-    width: 816px;
-    height: 15px;
 
 }
 
@@ -62,4 +66,60 @@ main {
     height: 29px;
     text-decoration: none;
     margin: 30px 0 0 100px;
+}
+
+/* banner 01 ----------------------------------- */
+
+.banner01 {
+    background-image: url(imagens/banner01.png);
+    height: 678px;
+}
+
+.banner01-texto {
+    color: #fff;
+}
+
+.banner01-texto h2 {
+    margin: 0;
+    font-size: 48px;
+    width: 400px;
+    padding: 190px 0px 30px 100px ;
+    line-height: 100%;
+}
+
+.banner01-texto p {
+    margin: 0;
+    font-size: 24px;
+    width: 505px;
+    padding: 0px 0px 40px 100px;
+    line-height: 110%;
+}
+
+.botao {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    padding: 13px 28px;
+    border-radius: 22px;
+    text-transform: uppercase;
+}
+
+.botao-laranja {
+    background-color: #FEC52E;
+    color: #141414;
+}
+
+.botao-branco {
+    background-color: #fff;
+    color: #141414;
+}
+
+.botao-vazado {
+    color: #fff;
+    border: 3px solid #fff;
+    padding: 10px 25px;
+}
+
+.banner01-texto .botao {
+    margin-left: 100px;
 }
