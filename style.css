@@ -123,3 +123,90 @@ main {
 .banner01-texto .botao {
     margin-left: 100px;
 }
+
+/* banner 02 ----------------------------------- */
+
+.banner02 {
+    background-image: url(imagens/banner02.png);
+    height: 504px;
+}
+
+.banner02 .botao {
+    margin-right: 20px;
+}
+
+.banner02-texto {
+    color: #000;
+    float: right;
+    width: 602px;
+}
+
+.banner02-texto h2 {
+    width: 450px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+    padding: 127px 0px 20px 0px ;
+    line-height: 36px;
+}
+
+.banner02-texto p {
+    font-size: 16px;
+    width: 505px;
+    padding: 0px 0px 40px 0px;
+    line-height: 110%;
+}
+
+.p1 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+p.p2 {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+/* banner 03 ----------------------------------- */
+
+.banner03 {
+    background-image: url(imagens/banner03.png);
+    height: 580px;
+}
+
+.banner03 .botao {
+    margin-left:100px;
+}
+
+.banner03-texto {
+    float: left;
+    color: #000;
+    width: 500px;
+}
+
+.banner03-texto h2 {
+    width: 450px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+    padding: 177px 0px 34px 100px ;
+    line-height: 36px;
+}
+
+.banner03-texto .botao-vazado {
+    border-color: #000;
+    color: #000;
+}
+
+.banner03 .botao {
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+.celular {
+    float: right;
+    background-image: url(imagens/celular_video.png);
+    margin: 81px 101px 0 0;
+    width: 764px;
+    height: 418px;
+}
