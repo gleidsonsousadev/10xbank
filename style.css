@@ -373,3 +373,175 @@ p.p2 {
     line-height: 20px;
     font-weight: 500;
 }
+
+/* bloco 07 ----------------------------------- */
+
+.bloco07 {
+    height: 482px;
+    background-color: #fff;
+}
+
+.bloco07 .botao {
+    margin-left:100px;
+}
+
+.bloco07-texto {
+    float: left;
+    color: #000;
+    width: 500px;
+}
+
+.bloco07-texto h2 {
+    width: 400px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+    padding: 119px 0px 11px 100px ;
+    line-height: 36px;
+}
+
+.bloco07 .botao {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.bloco07-texto p {
+    margin-left: 100px;
+    font-size: 16px;
+    width: 385px;
+    padding: 0px 0px 17px 0px;
+}
+
+.p1 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+p.p2 {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 700;
+    width: 399px;
+}
+
+.bloco07 .imagem {
+    float: right;
+    background-image: url(imagens/foto-homem-direita01.png);
+    height: 482px;
+    width: 710px;
+}
+
+/* bloco 08 ----------------------------------- */
+
+.bloco08 {
+    height: 482px;
+    background-color: #fff;
+}
+
+.bloco08 .botao {
+    margin-left:100px;
+}
+
+.bloco08-texto {
+    float: left;
+    color: #000;
+    width: 500px;
+}
+
+.bloco08-texto h2 {
+    width: 450px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+    padding: 119px 0px 11px 100px ;
+    line-height: 36px;
+}
+
+.bloco08 .botao {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.bloco08-texto p {
+    margin-left: 100px;
+    font-size: 16px;
+    width: 385px;
+    padding: 0px 0px 17px 0px;
+}
+
+.p1 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+p.p2 {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 700;
+    width: 399px;
+}
+
+.bloco08 .imagem {
+    float: left;
+    background-image: url(imagens/foto-mulher-esquerda.png);
+    height: 482px;
+    width: 710px;
+}
+
+/* bloco 09 ----------------------------------- */
+
+.bloco09 {
+    height: 482px;
+    background-color: #fff;
+}
+
+.bloco09 .botao {
+    margin-left:100px;
+}
+
+.bloco09-texto {
+    float: left;
+    color: #000;
+    width: 500px;
+}
+
+.bloco09-texto h2 {
+    width: 400px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+    padding: 64px 0px 35px 100px ;
+    line-height: 36px;
+}
+
+.bloco09 .botao {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.bloco09-texto p {
+    margin-left: 100px;
+    font-size: 16px;
+    width: 385px;
+    padding: 0px 0px 17px 0px;
+}
+
+.p1 {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 500;
+}
+
+p.p2 {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 700;
+    width: 399px;
+}
+
+.bloco09 .imagem {
+    float: right;
+    background-image: url(imagens/foto-homem-direita02.png);
+    height: 482px;
+    width: 710px;
+}
