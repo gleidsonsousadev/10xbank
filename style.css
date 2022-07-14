@@ -927,3 +927,106 @@ p.p2 {
 .bloco14 .pontos a:hover {
     color: #488ad6;
 }
+
+/* bloco 15 ----------------------------------- */
+
+.bloco15 {
+    display: table;
+    background-color: #fff;
+    height: 671px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.bloco15 .container-grid {
+    box-sizing: border-box;
+    width: 1261px;
+}
+
+.bloco15 .container-grid div {
+    float: left;
+    margin: 30px 10px;
+}
+
+.bloco15-texto h2 {
+    text-align: center;
+    padding-top: 102px;
+    font-size: 36px;
+    line-height: 36px;
+    font-weight: 600;
+}
+
+.bloco15-texto .p2 {
+    margin: auto;
+    line-height: 22px;
+    font-weight: 700;
+    text-align: center;
+    padding: 20px 0px 40px 0px;
+}
+
+.grid-vermelho {
+    box-sizing: border-box;
+    padding: 30px;
+    width: 400px;
+    height: 300px;
+    background-color:#F1216C;
+    border-radius: 12px;
+}
+
+.grid-azul {
+    box-sizing: border-box;
+    padding: 30px;
+    width: 400px;
+    height: 300px;
+    background-color:#5FB2E4;
+    border-radius: 12px;
+}
+
+.grid-verde {
+    box-sizing: border-box;
+    padding: 30px;
+    width: 400px;
+    height: 300px;
+    background-color:#3BAF4A;
+    border-radius: 12px;
+}
+
+.bloco15 .passo {
+    color: #fff;
+    text-transform:uppercase;
+    margin-bottom: 10px;
+}
+
+.bloco15 .numero {
+    color: #fff;
+    font-size: 64px;
+    line-height: 64px;
+    font-weight: 600;
+    margin-bottom: 52px;
+}
+
+.bloco15 .botao {
+    margin: 0 20px 0 55px;
+}
+
+.bloco15 .p1 {
+    font-size: 20px;
+    line-height: 20px;
+    color: #fff;
+    width: 265px;
+}
+
+.bloco15 .grid-azul .p2 {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 400;
+    color: #fff;
+    width: 265px;
+}
+
+.bloco15 .bloco15-texto .p2 {
+    font-size: 24px;
+    font-weight: 500;
+}
