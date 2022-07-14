@@ -222,6 +222,10 @@ p.p2 {
     margin-left:100px;
 }
 
+.bloco04 .logo-xjoy {
+    padding: 136px 2px 0px 101px;
+}
+
 .bloco04-texto {
     float: left;
     color: #fff;
@@ -233,7 +237,7 @@ p.p2 {
     font-weight: 600;
     font-style: normal;
     font-size: 36px;
-    padding: 177px 0px 34px 100px ;
+    padding: 8px 0px 34px 100px ;
     line-height: 36px;
 }
 
@@ -730,4 +734,52 @@ p.p2 {
     font-weight: 700;
     text-align: center;
     padding: 20px 0px 40px 0px;
+}
+
+/* bloco 13 ----------------------------------- */
+
+.bloco13 {
+    background-image: url(imagens/banner09.png);
+    height: 563px;
+}
+
+.bloco13-texto {
+    color: #fff;
+    float: right;
+}
+
+.whatsapp-big {
+    padding: 113px 528px 28px 836px ;
+}
+
+.bloco13-texto h2 {
+    margin: 0;
+    font-size: 36px;
+    line-height: 36px;
+    font-weight: 600;
+    width: 400px;
+    padding: 0px 0px 18px 836px ;
+}
+
+.bloco13-texto .p1 {
+    margin: 0;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 300;
+    width: 482px;
+    padding: 0px 0px 50px 836px ;
+}
+
+.botao {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    padding: 13px 28px;
+    border-radius: 22px;
+    text-transform: uppercase;
+}
+
+.bloco13-texto .botao {
+    margin-left: 836px;
+    
 }
