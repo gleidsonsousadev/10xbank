@@ -612,6 +612,11 @@ p.p2 {
     
 }
 
+.quero-saber-seta {
+    text-decoration: none;
+    color: #000;
+}
+
 .item-grid .quero-saber-consorcio {
     font-size: 14px;
     line-height: 17px;
@@ -782,4 +787,143 @@ p.p2 {
 .bloco13-texto .botao {
     margin-left: 836px;
     
+}
+
+/* bloco 14 ----------------------------------- */
+
+.bloco14 {
+    display: table;
+    background-color: #f3f3f3;
+    height: 671px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.bloco14-texto h2 {
+    text-align: center;
+    padding-top: 102px;
+    font-size: 36px;
+    line-height: 36px;
+    font-weight: 600;
+}
+
+.bloco14 .container-grid {
+    margin: 75px auto 20px auto;
+    text-align: center;
+    height: 400px;
+    width: 1000px;
+}
+
+.bloco14 .grid {
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.03);
+    width: 295px;
+    height: 295px;
+}
+
+.foto-perfil01 {
+    float: left;
+    background-image: url(imagens/perfil-homem-1.png);
+    width: 55px;
+    height: 55px;
+}
+
+.foto-perfil02 {
+    float: left;
+    background-image: url(imagens/perfil-mulher.png);
+    width: 55px;
+    height: 55px;
+}
+
+.foto-perfil03 {
+    float: left;
+    background-image: url(imagens/perfil-homem-2.png);
+    width: 55px;
+    height: 55px;
+}
+
+.bloco14 .nome-candidato {
+    width:150px;
+    margin:10px 0px 20px 70px;
+}
+
+.bloco14 .nome {
+    text-align: left;
+    width: 100px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.bloco14 .profissao {
+    text-align: left;
+    font-size: 11px;
+    line-height: 11px;
+    font-weight: 400;
+}
+
+.bloco14 .aspas {
+    float: left;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: #e2e2e2;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    width: 15px;
+    height: 50px;
+    margin: 30px 0 0 20px;
+}
+
+.bloco14 .descricao {
+    display: table;
+    float: right;
+    text-align: left;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    width: 180px;
+    height: 100px;
+    margin-top: 30px;
+}
+
+.bloco14 .seta-esquerda {
+    float: left;
+    width: 15px;
+    height: 27px;
+    padding: 20px;
+    margin: 175px auto auto 100px;
+}
+
+.bloco14 .seta-direita {
+    float: right;
+    width: 15px;
+    height: 27px;
+    padding: 20px;
+    margin: 175px 100px auto 50px;
+    
+}
+
+.bloco14 .pontos {
+    font-size: 5em;
+    color: #d9d9d9;
+    margin: 0 0 100px;
+}
+
+.bloco14 .pontos a {
+    text-decoration: none;
+    color: #d9d9d9;
+    margin: 0 0 100px;
+}
+
+.bloco14 .pontos a:hover {
+    color: #488ad6;
 }
