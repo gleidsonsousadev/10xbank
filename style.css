@@ -369,7 +369,7 @@ p.p2 {
 
 .item-grid p {
     width: 235px;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 20px;
     font-weight: 500;
 }
@@ -522,7 +522,7 @@ p.p2 {
 .bloco09-texto p {
     margin-left: 100px;
     font-size: 16px;
-    width: 385px;
+    width: 500px;
     padding: 0px 0px 17px 0px;
 }
 
@@ -545,3 +545,96 @@ p.p2 {
     height: 482px;
     width: 710px;
 }
+
+/* bloco 10 ----------------------------------- */
+
+.bloco10 {
+    background-image: url(imagens/banner06.png);
+    height: 645px;
+    text-align: center;
+}
+
+.bloco10 h2 {
+    width: 720px;
+    font-size: 36px;
+    margin: 0 auto;
+    padding: 81px 0 30px 0;
+}
+
+.bloco10 .p1 {
+    width: 584px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 500;
+    margin: 0 auto 40px;
+}
+
+.bloco10 .container-texto {
+    margin-bottom: 0;
+    height: 280px;
+    color: #fff;
+}
+
+/* grid blocos ---------- */
+
+.container-grid {
+    width: 1250px;
+    margin: 0 auto;
+}
+
+.bloco10 .item-grid {
+    float: left;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.03);
+    border-radius: 12px;
+    text-align: left;
+    margin: 7px;
+    width: 295px;
+    height: 295px;
+}
+
+.bloco10 .item-grid p {
+    width: 235px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+}
+
+.item-grid .quero-saber {
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 600;
+    padding: 80px 0px 0px 80px;
+    
+}
+
+.item-grid .quero-saber-consorcio {
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 600;
+    padding: 40px 0px 0px 80px;
+}
+
+.item-grid .quero-saber-mentoria {
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 600;
+    padding: 60px 0px 0px 80px;
+}
+
+.item-grid .seta-amarela {
+    background-color: #FEC52E;
+    border-radius: 50%;
+}
+
+.bloco10 .seta {
+    float: right;
+    background-color: #FEC52E;
+    padding: 1px;
+
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    text-align: center;
+    font-size: 16px;
+} 
