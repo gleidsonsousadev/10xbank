@@ -683,3 +683,51 @@ p.p2 {
 .bloco11-texto .botao {
     margin-left: 100px;
 }
+
+/* bloco 12 ----------------------------------- */
+
+.bloco12 {
+    height: 530px;
+    background-image: url(imagens/banner08.png);
+    margin: auto;
+}
+
+.bloco12 .botao {
+    margin-left:100px;
+}
+
+.bloco12-texto {
+    text-align: center;
+    color: #000;
+    width: 1440px;
+    height: 530px;
+}
+
+.bloco12-texto h2 {
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 36px;
+    padding: 118px 0px 47px ;
+}
+
+.bloco12 .botao {
+    display: inline-block;
+    margin-top: 20px;
+    margin: 0;
+}
+
+.bloco12-texto .p1 {
+    margin: auto;
+    font-weight: 500;
+    text-align: center;
+    width: 600px;
+}
+
+.bloco12-texto .p2 {
+    margin: auto;
+    line-height: 22px;
+    font-weight: 700;
+    text-align: center;
+    padding: 20px 0px 40px 0px;
+}
