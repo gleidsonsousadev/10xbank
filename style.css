@@ -1030,3 +1030,200 @@ p.p2 {
     font-size: 24px;
     font-weight: 500;
 }
+
+/* bloco 16 ----------------------------------- */
+
+.bloco16 {
+    display: table;
+    background-color: #f3f3f3;
+    height: 1005px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.bloco16-texto {
+    box-sizing: border-box;
+    color: #424242;
+    padding: 0;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.bloco16-texto h2 {
+    text-align: center;
+    padding: 102px 74px;
+    font-size: 36px;
+    line-height: 36px;
+    font-weight: 600;
+}
+
+.linha {
+    width: 1200px;
+    border: 1px solid #dbdbdb;
+    margin: 10px auto;
+    margin-bottom: 20px;
+}
+
+.bloco16-texto .p2 {
+    width: 1138px;
+    margin-bottom: 10px;
+}
+
+.bloco16-texto .p1 {
+    margin-bottom: 10px;
+    width: 1138px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 500;
+}
+
+.mais {
+    float: right;
+    font-size: 32px;
+    
+}
+
+/* bloco 17 ----------------------------------- */
+
+.bloco17 {
+    display: table;
+    background: radial-gradient(41% 41% at 50% 0.7%, #4D4D4D 0%, #262626);
+    height: 788px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.bloco17 .conteudo {
+    margin: 100px auto;
+    width: 1240px;
+    height: 740px;
+}
+
+.bloco17-texto h2 {
+    width: 654px;
+    font-size: 36px;
+    line-height: 36px;
+    font-weight: 600;
+}
+
+.bloco17-texto {
+    display: table;
+    float: left;
+    width: 654px;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+.store1 {
+    display: table;
+    float: left;
+    margin: 38px 10px;
+}
+
+.bloco17 .botao-laranja {
+    display: table;
+    float: left;
+    margin: 38px 10px 10px 0px;
+}
+
+.app-verde {
+    display: table;
+    float: right;
+    width: 404px;
+    margin: 0;
+}
+
+.bloco17 .linha {
+    width: 1240px;
+    margin: auto;
+    border: 1px solid #4b4b4b;
+}
+
+.grid-footer-01 {
+    margin: 60px auto 40px auto;
+    float: left;
+    width:300px;
+    height: 200px;
+}
+
+.bloco17 .p1 {
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+}
+
+.bloco17 .p3 {
+    margin-top: 10px;
+    width: 270px;
+    color: #fff;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+.whatsapp-footer {
+    margin-top: 12px;
+    float: left;
+}
+
+.numero-fone {
+    margin-top: 12px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.botao-vazado-footer {
+    display: table;
+    margin-top: 20px;
+    color: #fff;
+    font-size: 12px;
+    line-height: 6px;
+    font-weight: 400;
+    border: 1px solid #fff;
+    padding: 10px 30px;
+}
+
+.container-menu-footer {
+    color: #fff;
+    font-size: 13px;
+    line-height: 16px;
+    font-weight: 600;
+}
+
+.menu-footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-footer a:hover {
+    color: #fec52e;
+}
+
+.menu-footer .menu {
+    margin: 10px 20px 80px 0;
+    display: table;
+    float: left;
+}
+
+.menu-footer .fone-footer {
+    margin-left: 30px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.menu-footer .social-media {
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    margin-right: 0;
+}
+
+.info-footer .p4 {
+    margin-top: 30px;
+    font-size: 11px;
+    color: #fff;
+}
